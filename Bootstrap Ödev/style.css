@@ -1,0 +1,101 @@
+
+*{
+    font-family: 'Gloock', serif;
+}
+
+.navbar{
+   
+    font-size: 25px;
+    
+}
+
+.navbar .nav-link{
+    
+}
+
+.card-group .card .card-img-top{
+   
+    width:150px ;
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    max-width: 100%;
+    
+}
+.baslik{
+    text-align: center;
+    margin-top: 15px;
+    color: purple;
+    text-decoration:underline;
+}
+a.bttn{
+    border: 2px solid gray;
+    background-color: aliceblue;
+    margin: 0px auto;
+    margin-top: 50px;
+    border-radius: 3rem;
+    padding: 12px;
+    
+    
+    
+}
+
+a.bttn:hover{
+    opacity: 0.8;
+}
+.card-group .card{
+    margin: 15px;
+}
+.card-group .card .card-footer{
+    display: block;
+    height: 80px;
+    margin-bottom: 15px;
+    
+
+}
+.card-group{
+    margin: 5%;
+    position: relative;
+}
+
+.jumbotron .display-4{
+    color: purple;
+    padding-bottom: 45px;
+}
+
+.jumbotron .my-4{
+    color: purple;
+}
+ul {
+    text-align: center;
+    padding-top: 25px;
+  }
+  
+  li {
+    text-align: left;
+  }
+
+  .my-4{
+    text-align: left;
+    padding-top: 145px;
+  }
+
+  .body {
+    background-color: #e9ecef;
+    
+  }
+
+  .btn{
+    margin-top: 10pc;
+  }
+
+  .card {
+    text-align: center;
+  }
+
+  .card .card-title{
+    color: red;
+    padding-top: 35px;
+    font-size: 34px;
+
+  }
